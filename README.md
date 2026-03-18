@@ -206,11 +206,15 @@ This prevents **financial duplication when multiple diagnoses exist**.
 ### Dimension Tables
 
 • dim_members
+
 • dim_providers
-• dim_diagnosis_codes  
-• dim_procedure_codes  
-• dim_revenue_codes  
+
+• dim_diagnosis_codes
+
+• dim_procedure_codes
+• dim_revenue_codes 
 • dim_place_of_service
+
 • dim_payers  
 
 ---
@@ -234,12 +238,9 @@ Preview:
 The pipeline includes validation checks to guarantee **data integrity across layers**.
 
 ### Row Count Validation
+![alt text](image.png)
 
-| Table | Bronze | Silver | Gold |
-|------|------|------|------|
-Claims Header | 7557 | 7557 | 7557 |
-Claims Lines | 15191 | 15191 | 15191 |
-Diagnosis Bridge | 18941 | 18941 | 18941 |
+
 
 These checks ensure:
 
@@ -262,13 +263,7 @@ SUM(line_paid)
 All totals matched exactly between Bronze, Silver, and Gold tables.
 
 Example validation result:
-
-| Metric | Value |
-|------|------|
-Claim Lines | 15191 |
-Total Charges | 10,430,231 |
-Total Allowed | 6,956,322 |
-Total Paid | 6,956,322 |
+![alt text](image-1.png)
 
 ---
 
@@ -342,6 +337,7 @@ healthcare-claims-analytics-platform
 │
 └── README.md
 └── requirements.txt
+
 ```
 
 ---
