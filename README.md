@@ -310,7 +310,10 @@ docs/Power BI_Tableau Dashboard_Reporting.docx
 
 Example:
 
-![Power BI Dashboard](Power BI_Tableau Dashboard_Reporting.docx)
+![Power BI Dashboard Page1](Healthcare Claims Executive Overview.png)
+![Power BI Dashboard Page2](Clinical & Utilization Insights.png)
+![Power BI Dashboard Page3](Healthcare Cost & Financial Performance.png)
+![Power BI Dashboard Page4](Provider Performance  & Utilization.png)
 
 ---
 
