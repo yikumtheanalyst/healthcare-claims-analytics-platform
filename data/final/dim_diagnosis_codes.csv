@@ -1,0 +1,11 @@
+diagnosis_code,short_description,long_description,diagnosis_code_key,gold_run_id,gold_processed_timestamp
+F41.9,Anxiety disorder,Anxiety disorder,de4925e5689ddffc9303f4a4efa68dcd9c85b0a79150a222c3e1e378772de6e5,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+J45.909,Asthma,Asthma,7f9edfac9faff494a3cb1bbf151e6863eb3c11eb287eb26b6941c5110540c9f1,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+I10,Essential hypertension,Essential hypertension,3d4418f6be7ece6735a8c3e80f9418265c8b8842a2063cdf340a37d4a9241468,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+R07.9,Chest pain,Chest pain,a421f949049ca9836bec7657d4023fb5ce9ceaa096ab9cdfbc04d01ae0cd63b1,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+K21.9,GERD,GERD,b91bf7cffd0ac19f9c55e367c02fbc810c439a1009cbf2f91d49b7d2b20393e1,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+F32.9,Major depressive disorder,Major depressive disorder,fc654c533f89cb206d45ad8638f9ebc9d3d88ef16d49d83243d0b74a8164ba4d,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+E11.9,Type 2 diabetes without complications,Type 2 diabetes without complications,cd058257fa6b5423c9d5e2b60153583bc10f22a8f3d62bedbc399889c72c9380,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+J06.9,Upper respiratory infection,Upper respiratory infection,6e08ec1fa1acae74c645ae115a761c1c06262b39ffc3131f28f37fa962cedaf3,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+M54.5,Low back pain,Low back pain,af3425c658edbeba86c7d77b00210ed4236017e452e5929dc0a50e2dd8c01543,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321
+N39.0,Urinary tract infection,Urinary tract infection,ceac1eb3e707d6dfa18706978510e180e16e9716bd0bcdd0557cd0bb3dac7329,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:27.231321

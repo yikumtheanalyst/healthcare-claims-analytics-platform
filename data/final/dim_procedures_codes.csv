@@ -1,0 +1,11 @@
+procedure_code,long_description,short_description,procedure_code_key,gold_run_id,gold_processed_timestamp
+99213,Office visit established patient,Office visit established patient,b2a003b226bcef51af073fadb6412eb50fbee55d5b77b3e117b999d6b24c968a,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+G0008,Flu vaccine admin,Flu vaccine admin,a688b9f02fe92bf141c66c937e2590902668bca3b531daa583da6b348e532697,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+99214,Office visit moderate complexity,Office visit moderate complexity,8a851e47fff67c0d8aafc4c94bf43d9933a65dd27eb61839f7c6e98db1bf1f73,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+J1100,Dexamethasone injection,Dexamethasone injection,6c4f3893c266e2e10a1d2b6355507dcaa299015dc33d72f598a4e03d5fba6422,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+93000,Electrocardiogram,Electrocardiogram,5329919797dc702823500c38ba238c10d9dd4a4ebb4b67401f343503355abf54,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+G0444,Depression screening,Depression screening,0db4a5d20edd99bb0aca6bff0ecf61536eeef5ad432e3b3db7fde2e4a9e9e97f,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+99204,Office visit new patient complex,Office visit new patient complex,3c27e76dde68fdd32a5f781e35bfd46e7750ee34fa378267df6e1b57114d20ac,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+J3490,Unclassified drug,Unclassified drug,bc40cfb7b3c699232cf1aa5cecf1d7941bfe8108b9a2391871bb45b321df85c5,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+99203,Office visit new patient,Office visit new patient,13628f4cc50a3a9bbdb2589e39e900af6672522a4aa56ef5a99b214b40b2136f,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924
+J1885,Ketorolac injection,Ketorolac injection,5adec5a54c1cd190c53be121e19a9ba349970e63a87c606a969e211db7bd807e,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:53.833924

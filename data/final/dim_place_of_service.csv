@@ -1,0 +1,11 @@
+Place_of_Service_Code,Place_of_Service_Name,Place_of_Service_Description,place_of_service_key,gold_run_id,gold_processed_timestamp
+24,Ambulatory Surgical Center,Ambulatory Surgical Center,c2356069e9d1e79ca924378153cfbbfb4d4416b1f99d41a2940bfdb66c5319db,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+50,Federally Qualified Health Center,Federally Qualified Health Center,1a6562590ef19d1045d06c4055742d38288e9e6dcd71ccde5cee80f1d5a774eb,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+22,Outpatient Hospital,Outpatient Hospital,785f3ec7eb32f30b90cd0fcf3657d388b5ff4297f2f9716ff66e9b69c05ddd09,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+49,Independent Clinic,Independent Clinic,0e17daca5f3e175f448bacace3bc0da47d0655a74c8dd0dc497a3afbdad95f1f,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+23,Emergency Room,Emergency Room,535fa30d7e25dd8a49f1536779734ec8286108d115da5045d77f3b4185d8f790,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+21,Inpatient Hospital,Inpatient Hospital,6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+31,Skilled Nursing Facility,Skilled Nursing Facility,eb1e33e8a81b697b75855af6bfcdbcbf7cbbde9f94962ceaec1ed8af21f5a50f,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+11,Office,Office,4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+32,Nursing Facility,Nursing Facility,e29c9c180c6279b0b02abd6a1801c7c04082cf486ec027aa13515e4f3884bb6b,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
+41,Ambulance Land,Ambulance Land,3d914f9348c9cc0ff8a79716700b9fcd4d2f3e711608004eb8f138bcba7f14d9,897b6ee5-14ef-49eb-8a93-c217408284ad,2026-03-10 13:13:32.232080
