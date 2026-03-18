@@ -380,9 +380,12 @@ Possible extensions:
 • Risk adjustment modeling  
 • Real‑time streaming claims ingestion  
 • ML‑based cost prediction
+• ML‑based patients diagnosis or procedure cost prediction
 
 ---
 
 # Author
 Yikum Shiferaw
+
+###
 Developed as part of a professional **Data Engineering & Analytics portfolio** demonstrating healthcare domain expertise and modern analytics platform design.
