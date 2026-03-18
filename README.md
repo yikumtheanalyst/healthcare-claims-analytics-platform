@@ -238,7 +238,7 @@ Preview:
 The pipeline includes validation checks to guarantee **data integrity across layers**.
 
 ### Row Count Validation
-![Row Count](docs/Row Count Validation.png)
+![Row Count](docs/Row_Count_Validation.png)
 
 
 
@@ -264,7 +264,7 @@ All totals matched exactly between Bronze, Silver, and Gold tables.
 
 Example validation result:
 ### Cost Summary Validation
-![Cost Summary](docs/Cost Summary Validation.png)
+![Cost Summary](docs/Cost_Summary_Validation.png)
 
 ---
 
