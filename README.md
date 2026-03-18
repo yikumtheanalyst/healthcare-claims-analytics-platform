@@ -310,13 +310,13 @@ docs/Power BI_Tableau Dashboard_Reporting.docx
 
 ### Power BI Dashboard Samples:
 
-![Power BI Dashboard Page1](docs/Healthcare Claims Executive Overview.png)
+![Power BI Dashboard Page1](docs/Healthcare_Claims_Executive_Overview.png)
 
-![Power BI Dashboard Page2](docs/Clinical & Utilization Insights.png)
+![Power BI Dashboard Page2](docs/Clinical_Utilization_Insights.png)
 
-![Power BI Dashboard Page3](docs/Healthcare Cost & Financial Performance.png)
+![Power BI Dashboard Page3](docs/Healthcare_Cost_Financial_Performance.png)
 
-![Power BI Dashboard Page4](docs/Provider Performance  & Utilization.png)
+![Power BI Dashboard Page4](docs/Provider_Performance_Utilization.png)
 
 ---
 
