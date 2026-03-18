@@ -331,6 +331,8 @@ healthcare-claims-analytics-platform
 │   ├── architecture_diagram.png
 │   ├── data_model_diagram.png
 │   ├── powerbi_dashboard_preview.png
+|   |__ Cost Summary Validation.png
+|   |__ Row Count Validation.png
 │   └── data_validation_report.html
 │
 ├── powerbi
